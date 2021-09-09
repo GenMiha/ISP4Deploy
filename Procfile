@@ -1,1 +1,1 @@
-web: gunicorn djBot.djBot.wsgi
+web: gunicorn djBot.wsgi
